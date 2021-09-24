@@ -29,7 +29,7 @@ Create local directory: local-code-dir
 ## Simple Rust Program to print Hello World
 
 ```bash
-    In VS Code local-code-dir, create new file,
+    In VS Code local-code-dir, create a new file,
         fn main() {
             println!("Hello, world!");
         }
