@@ -12,7 +12,7 @@ Create local directory: local-code-dir
 ## Local Command Line Terminal
 
 ```bash
-    In CLI, execute the following commands:
+    In CLI (Terminal), execute the following commands:
         cd Documents/GitHub/local-code-dir
         code .
 ```
