@@ -17,7 +17,7 @@ Create local directory: local-code-dir
         code .
 ```
 
-## Connect local code directory to Github
+## Connect local code directory to Github repostiory
 
 ```bash
     In VS Code, open new terminal,
