@@ -1,4 +1,4 @@
-# Varun's Cheat Sheet
+# Varun's Cheat Sheet 
 
 ## Github Repository Setup
 
@@ -26,7 +26,7 @@ Create local directory: local-code-dir
         git status
 ```
 
-## Simple Rust Program
+## Simple Rust Program to print Hello World
 
 ```bash
     In VS Code local-code-dir, create new file,
