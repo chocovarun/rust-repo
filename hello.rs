@@ -1,3 +1,4 @@
+// first hello world program in rust
 fn main() {
     println!("{}, {}!", "Hello", "world"); // Hello, world!
     println!("{0}, {1}!", "Hello", "world"); // Hello, world!
