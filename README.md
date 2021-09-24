@@ -1,4 +1,4 @@
-# Varun's Cheat Sheet for Git Usage
+# Varun's Cheat Sheet
 
 ## Github Repository Setup
 
