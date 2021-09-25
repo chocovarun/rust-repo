@@ -1,4 +1,4 @@
-# Varun's Cheat Sheet 
+# Varun's Cheat Sheet
 
 ## Github Repository Setup
 
@@ -26,7 +26,7 @@ Create local directory: local-code-dir
         git status
 ```
 
-## Simple Rust Program to print Hello World
+## Simple Rust Program to print Hello World in the command line
 
 ```bash
     In VS Code local-code-dir, create a new file,
@@ -36,10 +36,24 @@ Create local directory: local-code-dir
     Save it as rust_file_name.rs
 ```
 
+## Compile the code
+
+```bash
+    In the VS Code Terminal, run the following command
+    rustc rust_file_name.rs (Example: rustc hello.rs)
+```
+
+## Execute the code
+
+```bash
+    In the VS Code Terminal, run the following command
+    ./rust_file_name (Example: ./hello)
+```
+
 ## Commit & Check-in code from local directory to Github
 
 ```bash
-    In the VS Code terminal,
+    In the VS Code terminal, run the following commands
         git status
         git add .
         git commit -a -m "first commit to git repo"
@@ -52,4 +66,18 @@ Create local directory: local-code-dir
     In the VS Code terminal,
         rustc rust_file_name.rs
         ./rust_file_name
+```
+
+## Check GPG Keys List for Trusted Signatures
+
+```bash
+    Run the following command in the terminal
+    gpg --list-keys
+```
+
+## Check Keybase PGP Keys List
+
+```bash
+    Run the following command in the terminal
+    keybase pgp list
 ```
